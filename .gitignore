@@ -1,0 +1,19 @@
+# KiCad temporary / backup files
+*.000
+*.bak
+*.bck
+*.kicad_pcb-bak
+*.kicad_sch-bak
+*-backups/
+*.kicad_prl
+*.lck
+~*.lck
+fp-info-cache
+_autosave-*
+\#auto_saved_files\#
+temp-freerouting.dsn
+$tempfile$*
+# Office lock files
+~$*
+# Editor history
+.history/
